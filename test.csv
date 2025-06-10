@@ -1,0 +1,101 @@
+proximity_distance,accel_x,accel_y,accel_z,gyro_x,gyro_y,gyro_z,gsr_level,audio_amplitude,audio_frequency,voice_stress,accel_magnitude,gyro_magnitude,motion_intensity,threat_level,scenario_description
+6.2,0.08,0.12,9.85,1.2,-0.8,0.5,42,45,850,18,9.851,1.576,0.155,normal,Walking to office building entrance during morning rush
+4.8,0.15,0.09,9.78,2.1,1.3,-1.1,38,52,920,22,9.782,2.677,0.262,normal,Shopping in busy supermarket with family around
+3.5,0.03,0.05,9.82,0.5,0.3,0.2,45,48,780,15,9.820,0.583,0.057,normal,Waiting at bus stop with several other commuters
+5.1,0.22,0.18,9.88,1.8,0.9,1.2,41,44,890,19,9.883,2.408,0.238,normal,Walking dog in neighborhood park during afternoon
+7.3,0.06,0.11,9.79,0.8,0.6,0.4,39,43,810,16,9.791,1.077,0.105,normal,Grocery shopping in well-lit store with security
+4.2,0.13,0.08,9.86,1.5,1.1,0.7,47,49,870,21,9.861,2.062,0.203,normal,Meeting friend at coffee shop in busy area
+6.8,0.09,0.14,9.83,1.0,0.7,0.9,40,46,830,17,9.832,1.345,0.132,normal,Walking to car in mall parking lot during day
+3.9,0.19,0.16,9.81,2.2,1.6,1.3,44,51,900,24,9.813,2.939,0.288,normal,Jogging in residential area with other runners
+5.6,0.07,0.10,9.84,0.9,0.5,0.6,43,47,860,20,9.841,1.186,0.117,normal,Working late in office building with security
+4.5,0.17,0.13,9.87,1.7,1.2,0.8,46,50,880,23,9.873,2.260,0.223,normal,Attending evening class at university campus
+7.1,0.05,0.08,9.80,0.6,0.4,0.3,38,42,790,14,9.800,0.761,0.075,normal,Walking home from friend's house in safe neighborhood
+3.2,0.21,0.19,9.89,2.0,1.4,1.1,49,53,910,25,9.894,2.646,0.262,normal,Exercise class at gym with instructor present
+6.0,0.11,0.09,9.82,1.3,0.8,0.7,42,45,840,18,9.821,1.711,0.168,normal,Library study session with other students
+4.7,0.14,0.12,9.85,1.6,1.0,0.9,45,48,870,22,9.852,2.023,0.199,normal,Medical appointment at hospital during day
+5.8,0.08,0.13,9.78,1.1,0.9,0.5,41,44,820,19,9.781,1.492,0.146,normal,Bank visit during business hours with tellers
+3.8,0.16,0.11,9.86,1.9,1.3,1.0,48,52,890,26,9.862,2.381,0.235,normal,Restaurant dinner with colleagues after work
+6.4,0.06,0.10,9.83,0.7,0.5,0.4,40,43,800,16,9.831,0.894,0.088,normal,Church service with congregation present
+4.1,0.18,0.15,9.88,2.1,1.5,1.2,47,50,900,24,9.884,2.760,0.273,normal,Volunteering at community center during day
+7.0,0.09,0.07,9.81,0.8,0.6,0.3,39,41,770,15,9.811,1.019,0.100,normal,School pickup with other parents around
+5.3,0.12,0.14,9.84,1.4,1.1,0.8,44,47,850,21,9.842,1.849,0.182,normal,Pharmacy visit in busy shopping center
+4.9,0.20,0.17,9.87,2.3,1.7,1.4,50,54,920,27,9.874,3.126,0.309,normal,Fitness center workout with trainer supervision
+6.6,0.04,0.09,9.80,0.5,0.3,0.2,37,40,760,13,9.800,0.583,0.057,normal,Hair salon appointment during business hours
+3.6,0.23,0.21,9.91,2.5,1.9,1.6,52,56,940,29,9.915,3.470,0.344,normal,Dancing class with instructor and other students
+7.2,0.07,0.06,9.79,0.9,0.7,0.4,38,42,780,17,9.790,1.186,0.116,normal,Post office visit with staff and customers present
+5.2,0.15,0.13,9.85,1.8,1.2,1.0,46,49,860,23,9.853,2.281,0.225,normal,Dental appointment at busy medical complex
+2.8,0.35,0.28,9.92,3.2,2.1,1.8,65,58,1100,42,9.928,4.272,0.424,elevated,Stranger asking for directions in quiet area
+2.4,0.42,0.31,9.89,2.8,2.4,2.0,68,62,1150,45,9.901,4.024,0.399,elevated,Unknown person walking same path for several blocks
+2.1,0.38,0.33,9.86,3.5,2.6,2.2,71,65,1200,48,9.871,4.758,0.470,elevated,Man standing too close at ATM machine
+1.9,0.45,0.37,9.88,3.1,2.8,2.4,74,68,1250,51,9.893,4.677,0.463,elevated,Uncomfortable conversation with stranger at bar
+2.6,0.41,0.29,9.91,2.9,2.2,1.9,69,61,1120,44,9.921,3.952,0.392,elevated,Someone following on social media appearing nearby
+2.3,0.39,0.34,9.84,3.3,2.5,2.1,72,66,1180,49,9.853,4.472,0.441,elevated,Uber driver taking unfamiliar route
+2.0,0.47,0.41,9.87,3.6,2.9,2.6,76,70,1300,53,9.884,5.085,0.503,elevated,Maintenance worker lingering outside apartment
+2.7,0.36,0.32,9.90,3.0,2.3,2.0,67,60,1140,46,9.910,4.186,0.414,elevated,Catcalling from group of men across street
+1.8,0.44,0.38,9.85,3.4,2.7,2.3,75,69,1280,52,9.864,4.798,0.473,elevated,Date showing controlling behavior at restaurant
+2.5,0.40,0.30,9.89,2.7,2.1,1.8,70,63,1160,47,9.901,3.678,0.364,elevated,Coworker making inappropriate comments when alone
+2.2,0.43,0.35,9.82,3.2,2.4,2.2,73,67,1220,50,9.835,4.472,0.441,elevated,Neighbor appearing wherever she goes
+1.7,0.48,0.42,9.86,3.7,3.0,2.7,77,71,1320,54,9.876,5.279,0.521,elevated,Ex-partner texting constantly and showing up
+2.9,0.34,0.27,9.93,2.6,2.0,1.7,64,57,1080,41,9.938,3.507,0.347,elevated,Stranger offering unsolicited help with groceries
+1.6,0.46,0.40,9.84,3.5,2.8,2.5,78,72,1340,55,9.856,5.019,0.495,elevated,Someone taking photos without permission
+2.4,0.37,0.31,9.88,2.8,2.2,1.9,66,59,1100,43,9.889,3.758,0.372,elevated,Man persistently trying to start conversation
+1.9,0.45,0.39,9.87,3.3,2.6,2.3,75,68,1260,51,9.883,4.677,0.463,elevated,Boss requesting private meeting after hours
+2.6,0.38,0.28,9.91,2.9,2.1,1.8,68,61,1130,45,9.920,3.796,0.376,elevated,Delivery person asking too many personal questions
+1.8,0.47,0.43,9.83,3.6,2.9,2.6,76,70,1300,53,9.847,5.085,0.501,elevated,Taxi driver making inappropriate comments
+2.1,0.41,0.33,9.86,3.1,2.3,2.0,72,65,1190,48,9.871,4.186,0.413,elevated,Gym trainer being overly physical during workout
+2.7,0.35,0.29,9.92,2.7,2.0,1.7,65,58,1070,42,9.929,3.507,0.347,elevated,Real estate agent being too pushy during showing
+1.5,0.49,0.44,9.85,3.8,3.1,2.8,79,73,1360,56,9.869,5.414,0.535,elevated,Doctor appointment where physician crosses boundaries
+2.3,0.40,0.32,9.89,3.0,2.4,2.1,71,64,1170,47,9.901,4.186,0.414,elevated,Repair technician asking personal questions at home
+1.7,0.44,0.36,9.84,3.4,2.6,2.2,74,67,1240,50,9.854,4.637,0.458,elevated,Student study group member making advances
+2.5,0.38,0.30,9.90,2.8,2.2,1.9,69,62,1150,46,9.910,3.758,0.372,elevated,Landlord entering apartment without proper notice
+1.9,0.46,0.41,9.87,3.5,2.8,2.4,77,70,1290,52,9.884,4.919,0.486,elevated,Online date acting different than expected
+1.2,1.85,1.92,9.45,8.5,7.2,6.8,125,78,1850,72,9.658,13.247,1.279,high_threat,Aggressive panhandler blocking path and demanding money
+1.0,2.12,2.05,9.38,9.8,8.1,7.5,132,82,1920,76,9.617,14.572,1.401,high_threat,Road rage incident with driver getting out of car
+0.8,2.35,2.18,9.41,10.2,8.7,8.0,138,85,1980,79,9.669,15.163,1.464,high_threat,Intoxicated person becoming violent at party
+1.1,1.98,1.87,9.43,9.1,7.6,7.2,128,80,1890,74,9.634,13.687,1.318,high_threat,Stalker confronting victim in parking garage
+0.9,2.24,2.11,9.39,9.6,8.3,7.8,135,83,1950,77,9.640,14.370,1.385,high_threat,Domestic violence situation escalating at home
+1.3,1.76,1.83,9.47,8.2,6.9,6.5,122,76,1820,70,9.672,12.642,1.223,high_threat,Mugging attempt in isolated area
+0.7,2.41,2.26,9.36,10.5,8.9,8.3,141,87,2010,81,9.652,15.667,1.512,high_threat,Sexual harassment escalating to physical contact
+1.0,2.08,1.95,9.42,9.3,7.8,7.4,130,81,1910,75,9.646,13.888,1.340,high_threat,Kidnapping attempt near school
+0.6,2.52,2.31,9.33,11.2,9.4,8.7,144,89,2070,83,9.634,16.439,1.582,high_threat,Home invasion with perpetrator still inside
+1.2,1.89,1.79,9.46,8.7,7.3,6.9,126,77,1860,71,9.665,13.045,1.261,high_threat,Carjacking attempt at traffic light
+0.8,2.18,2.08,9.37,9.7,8.2,7.7,134,84,1940,78,9.628,14.171,1.365,high_threat,Workplace violence with coworker
+1.1,2.05,1.91,9.44,9.0,7.5,7.1,129,79,1880,73,9.650,13.486,1.300,high_threat,Date rape attempt at college party
+0.9,2.28,2.15,9.40,9.9,8.5,8.1,137,86,1960,80,9.657,14.773,1.426,high_threat,Stranger grabbing arm and trying to drag away
+1.4,1.72,1.75,9.49,7.9,6.7,6.3,120,75,1800,69,9.684,12.238,1.185,high_threat,Robbery at gunpoint in bank
+0.5,2.58,2.37,9.31,11.5,9.7,9.0,147,91,2100,85,9.618,17.031,1.639,high_threat,Rape attempt in secluded area
+1.0,2.15,2.02,9.41,9.4,7.9,7.6,133,83,1930,77,9.636,14.071,1.356,high_threat,Abduction attempt while walking alone at night
+0.7,2.34,2.21,9.38,10.1,8.6,8.2,140,88,1990,82,9.647,15.264,1.473,high_threat,Violent ex-partner breaking into house
+1.3,1.81,1.86,9.48,8.4,7.0,6.6,123,77,1840,72,9.677,12.843,1.243,high_threat,Gang members surrounding and threatening
+0.6,2.45,2.29,9.34,10.8,9.1,8.5,143,89,2050,84,9.638,15.868,1.529,high_threat,Kidnapper forcing into vehicle
+1.1,1.94,1.88,9.45,8.8,7.4,7.0,127,78,1870,73,9.661,13.247,1.279,high_threat,Serial killer following victim
+0.8,2.31,2.12,9.39,10.0,8.4,7.9,136,85,1970,79,9.650,14.572,1.406,high_threat,Human trafficking attempt at bus station
+0.9,2.21,2.06,9.43,9.5,8.0,7.5,131,82,1920,76,9.654,13.888,1.340,high_threat,Acid attack preparation by stranger
+1.2,1.85,1.82,9.47,8.3,6.8,6.4,124,76,1830,71,9.670,12.439,1.203,high_threat,Honor killing threat from family member
+0.7,2.38,2.24,9.37,10.3,8.8,8.1,139,87,2000,81,9.644,15.465,1.491,high_threat,Forced marriage situation with violence
+1.0,2.11,1.98,9.42,9.2,7.7,7.3,132,81,1900,75,9.643,13.687,1.318,high_threat,Hate crime attack based on identity
+0.3,4.85,4.72,8.95,18.5,16.2,15.8,195,105,2850,92,10.158,28.074,2.848,emergency,Violent rape in progress with screaming
+0.2,5.12,4.98,8.89,19.8,17.1,16.4,202,108,2920,94,10.279,29.467,3.029,emergency,Murder attempt with weapon visible
+0.1,5.38,5.21,8.83,21.2,18.5,17.9,208,112,2980,96,10.394,31.176,3.242,emergency,Severe beating causing unconsciousness
+0.4,4.76,4.65,8.98,18.1,15.9,15.3,192,104,2820,91,10.126,27.234,2.757,emergency,Kidnapping with victim being dragged
+0.2,5.25,5.08,8.86,20.3,17.6,16.8,205,110,2950,95,10.343,30.023,3.105,emergency,Strangulation attempt during assault
+0.3,4.92,4.81,8.92,19.1,16.4,15.7,198,106,2880,93,10.207,28.474,2.909,emergency,Gang rape with multiple attackers
+0.1,5.45,5.29,8.80,21.8,19.0,18.4,211,114,3010,97,10.429,32.008,3.340,emergency,Stabbing attack with knife
+0.5,4.68,4.58,9.01,17.7,15.6,14.9,189,102,2790,90,10.087,26.434,2.665,emergency,Acid attack in progress
+0.2,5.19,5.02,8.88,19.9,17.2,16.5,201,109,2930,95,10.318,29.667,3.054,emergency,Attempted honor killing with weapon
+0.4,4.81,4.69,8.96,18.3,16.1,15.5,194,105,2840,92,10.149,27.634,2.798,emergency,Human trafficking with violence
+0.1,5.32,5.16,8.84,20.7,18.0,17.3,206,111,2970,96,10.371,30.823,3.181,emergency,Domestic violence with life threat
+0.3,4.89,4.77,8.94,18.9,16.6,15.9,197,107,2860,93,10.184,28.274,2.874,emergency,Carjacking with gun to head
+0.2,5.08,4.95,8.90,19.5,16.9,16.2,199,108,2910,94,10.258,29.067,2.979,emergency,Workplace shooter targeting victims
+0.4,4.73,4.62,8.99,17.9,15.8,15.1,191,103,2810,91,10.105,26.834,2.710,emergency,Serial killer attacking victim
+0.1,5.41,5.24,8.81,21.5,18.7,18.1,209,113,2990,97,10.408,31.608,3.291,emergency,Child abduction with violence
+0.3,4.95,4.84,8.93,19.3,16.7,16.0,200,107,2890,94,10.220,28.674,2.930,emergency,Forced prostitution with beating
+0.2,5.28,5.11,8.87,20.5,17.8,17.1,207,111,2960,96,10.356,30.423,3.130,emergency,Hate crime with deadly weapon
+0.5,4.65,4.55,9.02,17.4,15.3,14.7,187,101,2770,89,10.066,25.834,2.601,emergency,Terrorist attack on individual
+0.1,5.48,5.32,8.79,22.1,19.3,18.7,213,115,3020,98,10.451,32.408,3.391,emergency,Torture in progress with screaming
+0.4,4.78,4.66,8.97,18.0,15.9,15.2,193,104,2830,91,10.132,27.034,2.736,emergency,Femicide attempt by intimate partner
+0.2,5.15,5.01,8.89,19.7,17.0,16.3,203,109,2940,95,10.299,29.267,2.999,emergency,Sexual slavery with extreme violence
+0.3,4.86,4.74,8.95,18.7,16.3,15.6,196,106,2870,92,10.168,27.834,2.827,emergency,Police brutality with excessive force
+0.1,5.35,5.19,8.82,20.9,18.2,17.5,208,112,2980,96,10.387,31.008,3.217,emergency,Military sexual assault with weapon
+0.4,4.70,4.59,9.00,17.6,15.5,14.8,188,102,2800,90,10.088,26.234,2.644,emergency,Cult ritual violence against member
+0.2,5.22,5.05,8.88,20.1,17.4,16.7,204,110,2950,95,10.335,29.867,3.079,emergency,Forced organ harvesting attempt
